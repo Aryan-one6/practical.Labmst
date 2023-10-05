@@ -33,6 +33,10 @@ Before you begin, ensure you have met the following requirements:
 
 This is a simple signup page project created for the purpose of demonstrating a basic web form for user registration.
 
+SignUp page :
+
+https://github.com/Aryan-one6/practical.Labmst/blob/main/Screenshot%20(39).png
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
